@@ -74,7 +74,7 @@ export function Projects() {
             Projets
           </h2>
           <p className="text-zinc-500 max-w-xl mx-auto">
-            Quelques projets réalisés durant ma formation et mes apprentissages.
+            Quelques projets réalisés durant ma formation.
           </p>
         </motion.div>
 

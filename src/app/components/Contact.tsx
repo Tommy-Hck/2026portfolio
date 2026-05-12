@@ -6,22 +6,22 @@ const CONTACT_CARDS = [
     id: "email",
     icon: Mail,
     title: "Email",
-    content: "contact@example.com",
-    href: "mailto:contact@example.com",
+    content: "thomas.huy@proton.me",
+    href: "mailto:thomas.huy@proton.me",
   },
   {
     id: "location",
     icon: MapPin,
     title: "Localisation",
-    content: "Paris, France",
+    content: "Nouvelle Aquitaine, France",
     href: null,
     sub: "Disponible en remote",
   },
 ];
 
 const SOCIAL_LINKS = [
-  { label: "GitHub",   icon: Github,   href: "https://github.com"   },
-  { label: "LinkedIn", icon: Linkedin, href: "https://linkedin.com" },
+  { label: "GitHub",   icon: Github,   href: "https://github.com/Tommy-Hck"   },
+  { label: "LinkedIn", icon: Linkedin, href: "www.linkedin.com/in/thomas-h-1562a215a/" },
 ];
 
 export function Contact() {
