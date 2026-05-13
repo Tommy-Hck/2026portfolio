@@ -22,7 +22,7 @@ function figmaAssetResolver() {
 
 export default defineConfig({
   // ⚠️ Remplace 'NOM-DU-REPO' par le nom exact de ton repo GitHub Pages
-  base: '/2026portfolio/',
+  base: '/Devstarportfolio/',
 
   plugins: [
     figmaAssetResolver(),
