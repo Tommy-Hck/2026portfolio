@@ -21,7 +21,7 @@ const CONTACT_CARDS = [
 
 const SOCIAL_LINKS = [
   { label: "GitHub",   icon: Github,   href: "https://github.com/Tommy-Hck"   },
-  { label: "LinkedIn", icon: Linkedin, href: "www.linkedin.com/in/thomas-h-1562a215a/" },
+  { label: "LinkedIn", icon: Linkedin, href: "https://www.linkedin.com/in/thomas-h-1562a215a/" },
 ];
 
 export function Contact() {
@@ -47,8 +47,8 @@ export function Contact() {
             </span>
           </h2>
           <p className="text-zinc-400 max-w-xl mx-auto">
-            Disponible pour des projets freelance et des opportunités en temps plein
-            dans le spatial computing, la 3D et les technologies géospatiales.
+            Disponible pour des projets freelance et des opportunités en temps plein et contrat de professionalisation
+            dans le spatial.
           </p>
         </motion.div>
 

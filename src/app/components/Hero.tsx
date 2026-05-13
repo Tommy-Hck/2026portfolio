@@ -25,7 +25,7 @@ export function Hero() {
         className="text-5xl md:text-7xl text-white mb-6 leading-tight"
         style={{ fontFamily: "'Space Grotesk', sans-serif", fontWeight: 700 }}
       >
-        Développeur Web{" "}
+        Développeur{" "}
         <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
           Junior
         </span>
